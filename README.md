@@ -1,6 +1,9 @@
 # Awawaa
 
-This is just to host the font for my personal use.
-Original designer is YoonDesign Inc.
-You can found the font here :
-https://www.cufonfonts.com/font/choco-cooky
+This repository is only used to host the ChocoCooky font for my personal use (Discord theming).
+
+- Original designer: **YoonDesign Inc.**
+- Original source: https://www.cufonfonts.com/font/choco-cooky
+
+I do not claim ownership of this font.  
+This is **not** for redistribution or commercial use.
